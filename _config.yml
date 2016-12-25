@@ -4,7 +4,7 @@ description:        "Guitar&Code&You"
 url:                ""
 author:             "yensama"
 email:              "yuanchen0xi@126.com"
-gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+gravatar_hash:      "0a9f6fbed4d65ae31cd230ba0b10bb96"
 twitter:            ""
 email:              "yuanchen0xi@126.com"
 github:             "yensama3"
@@ -14,7 +14,7 @@ facebook:           ""
 
 disqus_shortname:   "yensama"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5420.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
