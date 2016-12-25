@@ -3,6 +3,13 @@ title: About
 permalink: /about/
 ---
 
-<p class="heavy-title"><a href="http://github.com/yensama3">Ink</a> is a simple & minimalistic theme for <a href="http://jekyllrb.com">Jekyll</a>, a static site generator.</p>
+>姓名：yen；
 
->Designed and developed by [@thinker3197](https://github.com/thinker3197).
+>出生年月:1/30/1998;
+
+>爱好:吉他(fingerstyle)，代码(c++,python)，你；
+
+
+
+
+Designed and developed by [@thinker3197](https://github.com/thinker3197).
