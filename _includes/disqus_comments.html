@@ -1,16 +1,5 @@
 {% if page.comments != false %}
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-var disqus_shortname = '{{ site.disqus_shortname }}';
-var disqus_identifier = '{{ page.url }}';
+<div id="cyQing" role="cylabs" data-use="qing"></div>
 
-(function() {
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
+<script type="text/javascript" charset="utf-8" src="http://changyan.itc.cn/js/lib/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://changyan.sohu.com/js/changyan.labs.https.js?appid=cysLzeQI5"></script>
