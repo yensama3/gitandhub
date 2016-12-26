@@ -22,3 +22,8 @@ My First blog
 希望能坚持写下去。
 
 >Guitar&Code&You 
+
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2122644"></script>
+<!-- UY END -->
